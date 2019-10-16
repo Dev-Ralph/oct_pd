@@ -26,7 +26,7 @@
                                    <input type="text" name="password" id="password" class="form-control">
                                </div>
                                <div id="login-link" class="text-right">
-                                   <a href="#" class="text-info">Login here</a>
+                                   <a href="#" class="text-info">Login Here</a>
                                </div>
                            </form>
                        </div>
