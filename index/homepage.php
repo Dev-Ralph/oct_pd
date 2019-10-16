@@ -27,19 +27,20 @@
                           <a class="nav-link text-white" href="#">Contact</a>
                       </li>
                   </ul>
-                  <ul class="navbar-nav">
-                      <li class="nav-item">
-                          <a class="btn btn-outline-dark text-white my-2 my-sm-0" style="margin:410px;" href="">Logout</a>
-                      </li>
-                  </ul>s
+
                 </div>
               </div>
 
         </nav>
 
         <div class="jumbotron">
-          <h1 class="display-4 ml-5">Welcome, Users!</h1>
+          <h1 class="display-4 ml-5">Welcome, User!</h1>
           <p class="lead ml-5">This offers a widely remote cloud system.</p>
+          <ul class="navbar-nav">
+              <li class="nav-item">
+                  <a class="btn btn-outline-dark text-light my-2 my-sm-0 bg-info" style="margin-left:45%;" href="">Logout</a>
+              </li>
+          </ul>
 
         </div>
 
