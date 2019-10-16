@@ -38,7 +38,7 @@
         </nav>
 
         <div class="jumbotron">
-          <h1 class="display-4 ml-5">Welcome, User!</h1>
+          <h1 class="display-4 ml-5">Welcome, Users!</h1>
           <p class="lead ml-5">This offers a widely remote cloud system.</p>
 
         </div>
